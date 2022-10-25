@@ -1,3 +1,5 @@
 # ignore zip file
 zippedData/im.db.zip
 data/im.db
+# ignore backups
+.ipynb_checkpoints/index-checkpoint.ipynb
